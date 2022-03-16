@@ -1,3 +1,3 @@
 # React_log
-:smile
+::smile
 The log is to React-leaning
